@@ -1,0 +1,14 @@
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.exe
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.deps.json
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.runtimeconfig.json
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.runtimeconfig.dev.json
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.dll
+C:\Users\geokd\OneDrive\Masaüstü\split\split\bin\Debug\netcoreapp3.1\split.pdb
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.csproj.AssemblyReference.cache
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.AssemblyInfoInputs.cache
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.AssemblyInfo.cs
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.csproj.CoreCompileInputs.cache
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.dll
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.pdb
+C:\Users\geokd\OneDrive\Masaüstü\split\split\obj\Debug\netcoreapp3.1\split.genruntimeconfig.cache
